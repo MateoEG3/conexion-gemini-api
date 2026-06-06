@@ -72,6 +72,10 @@ python app_gemini.py
 
 ![Ejecución y respuesta](imagenes/evidencia2.png)
 
+### Evidencia 3 - Ejecución y respuesta de Gemini
+
+![Ejecución](imagenes/evidencia3.png)
+
 ## Autor
 
 Mateo Echeverría
